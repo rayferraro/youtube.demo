@@ -33,11 +33,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangingModelValueWithControllerFunction.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ChangingModelValueWithControllerFunction.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChangingModelValueWithControllerFunction.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35076532" vertical-offset="0" max-vertical-offset="784">
+            <state vertical-scroll-proportion="-8.088235" vertical-offset="0" max-vertical-offset="525">
               <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssigningADefaultValueToAModel.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AssigningADefaultValueToAModel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44642857" vertical-offset="0" max-vertical-offset="784">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -56,10 +66,10 @@
         <option value="$PROJECT_DIR$/RespondingToClickEventsUsingControllers.html" />
         <option value="$PROJECT_DIR$/CreatingCustomHtmlElementsWithDirectives.html" />
         <option value="$PROJECT_DIR$/IncludingNgLibraryInHtml.html" />
-        <option value="$PROJECT_DIR$/AssigningADefaultValueToAModel.html" />
         <option value="$PROJECT_DIR$/BindingTextInputToExpression.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/ChangingModelValueWithControllerFunction.html" />
+        <option value="$PROJECT_DIR$/AssigningADefaultValueToAModel.html" />
       </list>
     </option>
   </component>
@@ -260,8 +270,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="296" y="24" width="1446" height="1000" extended-state="0" />
-    <editor active="false" />
+    <frame x="296" y="24" width="1446" height="1000" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33748585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -330,6 +340,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="550">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -366,6 +377,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="550">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -395,6 +407,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="550">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -491,13 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssigningADefaultValueToAModel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.352941" vertical-offset="0" max-vertical-offset="550">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RespondingToClickEventsUsingControllers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.764706" vertical-offset="0" max-vertical-offset="550">
@@ -515,8 +521,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ChangingModelValueWithControllerFunction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35076532" vertical-offset="0" max-vertical-offset="784">
+        <state vertical-scroll-proportion="-8.088235" vertical-offset="0" max-vertical-offset="525">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssigningADefaultValueToAModel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44642857" vertical-offset="0" max-vertical-offset="784">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
